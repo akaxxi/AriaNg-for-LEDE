@@ -26,9 +26,9 @@ define Package/aria-ng
 endef
 
 define Package/aria-ng/description
-	AriaNg is a web frontend making aria2 easier to use. 
-	AriaNg is written in pure html & javascript. 
-	AriaNg uses responsive layout, and supports any desktop or mobile devices.
+AriaNg is a web frontend making aria2 easier to use. 
+AriaNg is written in pure html & javascript. 
+AriaNg uses responsive layout, and supports any desktop or mobile devices.
 endef
 
 define Build/Compile
