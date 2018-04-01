@@ -3,12 +3,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=aria-ng
-PKG_VERSION:=0.2.0
+PKG_VERSION:=0.4.0
 PKG_RELEASE:=1
 
 PKG_SOURCE:=aria-ng-$(PKG_VERSION).zip
 PKG_SOURCE_URL:=https://github.com/mayswind/AriaNg/releases/download/$(PKG_VERSION)/
-PKG_MD5SUM:=0b81ab23b5559519cde5b66535a5683b0062ae175b8bede7d50bbeecb90b7b26
+PKG_MD5SUM:=74e76d435dcd8c62b027938133b6417af989a28d278c86fde3b5a7a9c2ecb8fb
 PKG_CAT:=unzip
 
 PKG_LICENSE:=MIT
